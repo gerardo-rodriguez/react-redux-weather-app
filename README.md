@@ -8,7 +8,5 @@ This app uses the [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSim
 
 ```
 npm install
-```
-```
 npm start
 ```
